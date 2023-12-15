@@ -1,0 +1,137 @@
+{
+  "films": [
+    {
+      "code": "000-01",
+      "name": "Balto",
+      "type": "Cartoon",
+      "country": "USA",
+      "genre": "Adventure",
+      "year": 1995,
+      "maker": "Simon Wells",
+      "quality": "720p",
+      "time": "78 min"
+    },
+    {
+      "code": "000-02",
+      "name": "Home Alone",
+      "type": "Film",
+      "country": "USA",
+      "genre": "Christmas comedy",
+      "year": 1990,
+      "maker": "Chris Columbus",
+      "quality": "720p",
+      "time": "103 min"
+    },
+    {
+      "code": "000-03",
+      "name": "Home Alone 2",
+      "type": "Film",
+      "country": "USA",
+      "genre": "Christmas comedy",
+      "year": 1992,
+      "maker": "Chris Columbus",
+      "quality": "720p",
+      "time": "119 min"
+    },
+    {
+      "code": "000-04",
+      "name": "The Call of the Wild",
+      "type": "Film",
+      "country": "USA",
+      "genre": "Adventure",
+      "year": 2020,
+      "maker": "Chris Sanders",
+      "quality": "1080p",
+      "time": "105 min"
+    },
+    {
+      "code": "000-05",
+      "name": "Green Book",
+      "type": "Film",
+      "country": "USA",
+      "genre": "Comedy, Biographical, Drama",
+      "year": 2018,
+      "maker": "Peter Farrelly",
+      "quality": "1080p",
+      "time": "130 min"
+    },
+    {
+      "code": "000-06",
+      "name": "Rush",
+      "type": "Film",
+      "country": "USA, United Kingdom, Germany",
+      "genre": "Biographical, Sport",
+      "year": 2013,
+      "maker": "Ron Howard",
+      "quality": "1080p",
+      "time": "123 min"
+    },
+    {
+      "code": "000-07",
+      "name": "Tog",
+      "type": "Film",
+      "country": "USA",
+      "genre": "Historical, Adventure",
+      "year": 2019,
+      "maker": "Ericson Core",
+      "quality": "1080p",
+      "time": "113 min"
+    },
+    {
+      "code": "000-08",
+      "name": "Oppenheimer",
+      "type": "Film",
+      "country": "USA, United Kingdom",
+      "genre": "Biographical, Thriller, Historical",
+      "year": 2023,
+      "maker": "Christopher Nolan",
+      "quality": "1080p",
+      "time": "180 min"
+    },
+    {
+      "code": "000-09",
+      "name": "Ford vs Ferrari",
+      "type": "Film",
+      "country": "USA, France",
+      "genre": "Biographical, Sport, Drama",
+      "year": 2019,
+      "maker": "James Mangold",
+      "quality": "1080p",
+      "time": "152 min"
+    },
+    {
+      "code": "000-10",
+      "name": "The Patriot",
+      "type": "Film",
+      "country": "USA, Germany",
+      "genre": "Historical, Drama, War",
+      "year": 2000,
+      "maker": "Roland Emmerich",
+      "quality": "720p",
+      "time": "165 min"
+    },
+    {
+      "code": "000-11",
+      "name": "Life Is Beautiful",
+      "type": "Film",
+      "country": "Italy",
+      "genre": "Comedy, Drama",
+      "year": 1997,
+      "maker": "Roberto Benigni",
+      "quality": "720p",
+      "time": "116 min"
+    },
+    {
+      "code": "000-12",
+      "name": "The meeting place cannot be changed",
+      "type": "Film",
+      "country": "USSR",
+      "genre": "Detective, Crime, Adventure",
+      "year": 1979,
+      "maker": "Stanislav Govorukhin",
+      "quality": "720p",
+      "time": "390 min"
+    }
+  ]
+}
+
